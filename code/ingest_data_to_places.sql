@@ -1,4 +1,4 @@
-LOAD DATA INFILE 'C:\Users\maheshwariar\OneDrive - Microsoft\Documents\Personal\Terras\data-20230210T100640Z-001\data\places.csv'
+LOAD DATA INFILE '/Terras/data-20230210T100640Z-001/data/places.csv'
  INTO TABLE places
  FIELDS TERMINATED BY ','
  ENCLOSED BY '"'
