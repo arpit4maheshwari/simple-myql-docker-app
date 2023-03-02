@@ -38,7 +38,6 @@ mysql-connector-python module needs to be installed in the container made from t
 ### Executing program
 
 * How to connect to the database(being a simple application we have used a simple authentication here, not recommended for enterprise applications)
-* Step-by-step bullets
 ```
 user=root, password=root1234, database=terrascope
 port exposed for conection: 6606
