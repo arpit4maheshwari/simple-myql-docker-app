@@ -40,7 +40,7 @@ mysql-connector-python module needs to be installed in the container made from t
 * How to connect to the database(being a simple application we have used a simple authentication here, not recommended for enterprise applications)
 ```
 user=root, password=root1234, database=terrascope
-port exposed for conection: 6606
+port exposed for conection: 6603
 example to connect to this docker container mysql db: root@127.0.0.1:6603
 ```
 
