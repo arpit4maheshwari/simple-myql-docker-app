@@ -1,4 +1,4 @@
-# Terrascope Mysql Application 
+# Simple Mysql Docker Application 
 
 This simple project does the below:-
 1. Contains code used for creating a simple docker image 1: "terrasmysql-img1" which contains the data for 
